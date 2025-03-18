@@ -1,0 +1,14 @@
+#include <stdio.h>
+#include « string.h› // Include for strenp and strcspn
+int main() {
+char user_input [100]; // Declare a character array for input
+printf("-y dog\n*);
+fgets(user_input, sizeof(user_input), stdin); // Read user input
+user _input[strespn(user_input, "In*)] - '10'; 1/ Remove tratiing newline
+if (strcp(user_input, "dog") -= f
+rooof woofin")i
+} else
+printf("didn't type dog\n*);
+}
+return 0;
+}
